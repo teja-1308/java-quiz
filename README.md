@@ -3,7 +3,7 @@
 A beautiful, interactive Java quiz app built with HTML, CSS & JavaScript. Test your Java knowledge with 15 curated questions covering Basics, OOPs, Collections, and Multithreading.
 
 ### 🔗 Live Demo
-**[Click Here to Play Quiz](https://java-quiz-teja-1308.vercel.app)** - _Replace with your Vercel link after deploy_
+**[Click Here to Play Quiz](https://teja-java-quiz.netlify.app)** - _https://teja-java-quiz.netlify.app_
 
 ### ✨ Features
 - 🎯 15 Java MCQs with code snippets
